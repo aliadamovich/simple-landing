@@ -1,6 +1,7 @@
-#Simple landing page. [Look here](https://aliadamovich.github.io/simple-landing/)
-###This is a one-page website.
-#It consists of:
+# Simple landing page. [Look here](https://aliadamovich.github.io/simple-landing/)
+
+## This is a one-page website.
+### It consists of:
 * header menu
 * company's description block
 * statistics block
